@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title></title>
+    <title>Open Forum</title>
   </head>
   <body>
 
