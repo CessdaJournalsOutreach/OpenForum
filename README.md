@@ -21,7 +21,8 @@
   <p>13:15-13:30 	Journals Outreach 2020 Activities and Findings: TBC</p>
   <p>13:30-13:50	Q&As from 2020 / Moderated discussion: TBC</p>
   <p>13:50-14:00	Break</p>
-  <p>14:00-15:00  Panel discussion “Challenges of data sharing from different perspectives” Alexandros Afouxenidis, Greek Review for Social Research, Greece
+  <p>14:00-15:00  Panel discussion “Challenges of data sharing from different perspectives”<br>
+    Alexandros Afouxenidis, Greek Review for Social Research, Greece
 Rafael Lalive, Swiss Journal of Economics and Statistics, Switzerland Simon Heuberger, Replicator for the journal Political Analysis, Germany
 Kostas Gemenis, Max Planck Institute for the Study of Societies, Germany Denis Vlašiček, CROSSDA/University of Zagreb, Faculty of Humanities & Social Sciences, Croatia  
 Ilze Lace, Swedish National Data Service (SND), Sweden Cristina Magder, Data Collections Development Manager, UK Data Service, UK Stefan Einarson / Wendel Scholma / Jason Prevost, Acquisitions Editors, BRILL publishers Matt Cannon / Caroline Sutton, Open Research, Taylor & Francis </p>
