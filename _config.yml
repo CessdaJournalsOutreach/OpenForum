@@ -1,0 +1,6 @@
+# Site settings
+title: Work Plans
+logo: /assets/cessda.png
+description: Work Plan 2020
+show_downloads: false
+theme: jekyll-theme-minimal
