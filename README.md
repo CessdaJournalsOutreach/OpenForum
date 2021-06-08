@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Open Forum</title>
+    <title>CESSDA Journals Outreach Open forum: Challenges of sharing data linked to publications</title>
   </head>
   <body>
     <h2>When: Wednesday 30th June 13:00-16:00 CET </h2>
